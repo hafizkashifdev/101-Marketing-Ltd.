@@ -1,0 +1,7 @@
+{
+    "bg_image": "../../../src/assets/7.jpg",
+    "title": { "first": "Compare", "second": "ITSulu", "third": "Plans" },
+    "subtitle": "Our Services and Solutions",
+    "button": "Learn More",
+    "link": "/prices"
+}
