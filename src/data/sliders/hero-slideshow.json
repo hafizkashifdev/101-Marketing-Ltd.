@@ -1,17 +1,17 @@
 {
-    "title": { "first": "We Provide Services <br />and Solutions", "second": "To Enterprise" },
+    "title": { "first": "Give a helping hand  <br />to those who ", "second": "need it!" },
     "subtitle": { "first": "The Next", "second": "Gen" },
     "button": { "label": "Let’s Talk", "link": "/contact" },
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "slides": [
         {
-            "image": "../../../src/assets/1.jpg"
+            "image": "img/photo/1.jpg"
         },
         {
-            "image": "../../../src/assets/2.jpg"
+            "image": "img/photo/2.jpg"
         },
         {
-            "image": "../../../src/assets/3.jpg"
+            "image": "img/photo/3.jpg"
         }
     ],
     "items": [

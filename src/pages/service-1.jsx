@@ -53,7 +53,7 @@ const Service1 = () => {
           <div className="row">
             <div className="col-12 mil-mb-90">
               <span className="mil-suptitle mil-suptitle-2 mil-mb-30">
-                Services and Solutions
+              Services and Solutions
               </span>
               <h2 className="mil-mb-30">
                 Our SaaS Development Services Let You Win Big

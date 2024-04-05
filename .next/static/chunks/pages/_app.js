@@ -165,7 +165,7 @@ module.exports = __webpack_require__.p + "static/media/deco-2.f9c70a66.svg";
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = __webpack_require__.p + "static/media/logo-dark.c2f49099.png";
+module.exports = __webpack_require__.p + "static/media/logo-dark.1b13071a.png";
 
 /***/ }),
 
